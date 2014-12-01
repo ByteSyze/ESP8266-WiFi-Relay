@@ -1,0 +1,80 @@
+Cmp-Mod V01 Created by CvPcb (2013-07-07 BZR 4022)-stable date = 11/24/2014 3:05:17 AM
+
+BeginCmp
+TimeStamp = /5472AC6B;
+Reference = C1;
+ValeurCmp = 10uF;
+IdModule  = SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /5472AD38;
+Reference = C2;
+ValeurCmp = 10uF;
+IdModule  = SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /5472E734;
+Reference = D1;
+ValeurCmp = LED;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5472AE72;
+Reference = D2;
+ValeurCmp = PWR;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5472A36D;
+Reference = J1;
+ValeurCmp = USB;
+IdModule  = USB-A;
+EndCmp
+
+BeginCmp
+TimeStamp = /5472D6A8;
+Reference = P1;
+ValeurCmp = CONN_5;
+IdModule  = PIN_ARRAY_5x1;
+EndCmp
+
+BeginCmp
+TimeStamp = /5472D6B7;
+Reference = P2;
+ValeurCmp = CONN_5;
+IdModule  = PIN_ARRAY_5x1;
+EndCmp
+
+BeginCmp
+TimeStamp = /5472E6DF;
+Reference = R1;
+ValeurCmp = 60;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5472D39E;
+Reference = R2;
+ValeurCmp = 60;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5472A858;
+Reference = RG1;
+ValeurCmp = TC1262;
+IdModule  = SOT223;
+EndCmp
+
+BeginCmp
+TimeStamp = /5472A350;
+Reference = U1;
+ValeurCmp = ESP8266-03;
+IdModule  = ESP8266-03;
+EndCmp
+
+EndListe

@@ -1,0 +1,30 @@
+eeschema (2013-07-07 BZR 4022)-stable  >> Creation date: 11/24/2014 1:54:37 AM
+#Cmp ( order = Reference )
+| C1         10uF        
+| C2         10uF        
+| D1         LED         
+| D2         PWR         
+| J1         USB         
+| P1         CONN_5      
+| P2         CONN_5      
+| R1         60          
+| R2         60          
+| RG1        TC1262      
+| U1         ESP8266-03  
+#End Cmp
+
+#Cmp ( order = Value )
+| 10uF         C1        
+| 10uF         C2        
+| LED          D1        
+| PWR          D2        
+| USB          J1        
+| CONN_5       P1        
+| CONN_5       P2        
+| 60           R1        
+| 60           R2        
+| TC1262       RG1       
+| ESP8266-03   U1        
+#End Cmp
+
+#End List
